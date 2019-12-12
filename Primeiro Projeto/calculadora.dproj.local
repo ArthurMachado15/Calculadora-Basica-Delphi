@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2017/07/24 11:01:56.000.549,=C:\Users\adao.mello\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2017/07/24 12:16:27.000.499,=C:\Users\adao.mello\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/03/07 11:39:52.000.170,=C:\Users\adao.mello\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/04 08:12:36.000.045,=C:\Users\adao.mello\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/05 08:53:05.000.929,=C:\Users\adao.mello\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/11/05 08:53:27.000.010,C:\Users\adao.mello\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\adao.mello\Desktop\Arthur Delphi\uMain.dfm</Transaction>
+    <Transaction>2019/11/05 08:53:27.000.010,C:\Users\adao.mello\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\adao.mello\Desktop\Arthur Delphi\uMain.pas</Transaction>
+    <Transaction>2019/11/05 08:53:37.000.595,C:\Users\adao.mello\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\adao.mello\Desktop\Arthur Delphi\calculadora.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
